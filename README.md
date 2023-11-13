@@ -1,2 +1,2 @@
 # bboard
- announcement ищфкв
+ announcement board
